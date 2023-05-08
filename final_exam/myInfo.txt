@@ -1,2 +1,6 @@
 Sarah Pampalone
+<<<<<<< HEAD
 spampalo@villanova.edu
+=======
+Bob
+>>>>>>> 83812d10e8154b8b58e38249250dd679360e63fc
